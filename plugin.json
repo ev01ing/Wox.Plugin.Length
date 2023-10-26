@@ -1,0 +1,12 @@
+{
+    "ID":"B4D3B69656E16D44866CAD8E8EAE47CF",
+    "ActionKeyword":"len",
+    "Name":"string length",
+    "Description":"计算字符串的长度",
+    "Author":"ev01ing",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/ev01ing/Wox.Plugin.Length",
+    "ExecuteFileName":"main.py",
+	"IcoPath": "images/icon.png"
+}
